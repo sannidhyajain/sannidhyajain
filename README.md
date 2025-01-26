@@ -1,5 +1,10 @@
 ## Hi there 👋
+I'm Sannidhya! I am currently pursuing my bachelors in Computer Engineering at Thapar Institute of Engineering & Technology, Patiala. I have grown a keen interest in Machine Learning and Data Science, with several projects showcasing my experience with Natural Language Processing (NLP) and Image Processing available on my GitHub profile. Proficient in C++ and Python, I am also passionate about software development, writing efficient code, and problem solving!
 
+I am currently seeking internship and full time opportunities in Software Development and Machine Learning Engineer roles. Feel free to connect and have a chat!
+
+LinkedIn: linkedin.com/in/sannidhyajain
+Kaggle: kaggle.com/sannidhyajain
 <!--
 **sannidhyajain/sannidhyajain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
