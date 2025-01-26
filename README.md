@@ -3,9 +3,9 @@ I'm Sannidhya! I am currently pursuing my bachelors in Computer Engineering at T
 
 I am currently seeking internship and full time opportunities in Software Development and Machine Learning Engineer roles. Feel free to connect and have a chat!
 
-LinkedIn: <a> linkedin.com/in/sannidhyajain </a>
+LinkedIn: [sannidhyajain](linkedin.com/in/sannidhyajain)
 
-Kaggle: kaggle.com/sannidhyajain
+Kaggle: [sannidhyajain](kaggle.com/sannidhyajain)
 <!--
 **sannidhyajain/sannidhyajain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
