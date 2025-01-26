@@ -3,7 +3,7 @@ I'm Sannidhya! I am currently pursuing my bachelors in Computer Engineering at T
 
 I am currently seeking internship and full time opportunities in Software Development and Machine Learning Engineer roles. Feel free to connect and have a chat!
 
-LinkedIn: linkedin.com/in/sannidhyajain
+LinkedIn: <a> linkedin.com/in/sannidhyajain </a>
 
 Kaggle: kaggle.com/sannidhyajain
 <!--
